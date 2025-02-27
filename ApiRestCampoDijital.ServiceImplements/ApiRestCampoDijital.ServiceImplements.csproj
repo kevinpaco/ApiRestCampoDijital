@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiRestCampoDijital.Data\ApiRestCampoDijital.Data.csproj" />
+    <ProjectReference Include="..\ApiRestCampoDijital.ModelDTO\ApiRestCampoDijital.ModelDTO.csproj" />
+    <ProjectReference Include="..\ApiRestCampoDijital.Model\ApiRestCampoDijital.Model.csproj" />
+    <ProjectReference Include="..\ApiRestCampoDijital.Service\ApiRestCampoDijital.Service.csproj" />
+  </ItemGroup>
+
+</Project>

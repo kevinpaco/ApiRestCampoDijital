@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRestCampoDijital", "ApiRestCampoDijital\ApiRestCampoDijital.csproj", "{16F23BD2-ECD1-41B9-8830-1C8AAA8EF6D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRestCampoDijital.Data", "ApiRestCampoDijital.Data\ApiRestCampoDijital.Data.csproj", "{055E0D58-A5DF-4C8C-99E9-B076045A3073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRestCampoDijital.Model", "ApiRestCampoDijital.Model\ApiRestCampoDijital.Model.csproj", "{D06DD0D1-2FF8-4873-A014-D5B7B09E23A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRestCampoDijital.ModelDTO", "ApiRestCampoDijital.ModelDTO\ApiRestCampoDijital.ModelDTO.csproj", "{0B6D6A6E-5C91-4656-8B5F-4A49B46986BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRestCampoDijital.Service", "ApiRestCampoDijital.Service\ApiRestCampoDijital.Service.csproj", "{E045CEFF-64AD-4CEB-B808-42405018A048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRestCampoDijital.ServiceImplements", "ApiRestCampoDijital.ServiceImplements\ApiRestCampoDijital.ServiceImplements.csproj", "{7FFB2674-0F5F-4C9E-9B89-A42DC464D2D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCampoDigital", "TestCampoDigital\TestCampoDigital.csproj", "{5651DB0A-494B-43BA-AA44-7D812CBE9DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16F23BD2-ECD1-41B9-8830-1C8AAA8EF6D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F23BD2-ECD1-41B9-8830-1C8AAA8EF6D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F23BD2-ECD1-41B9-8830-1C8AAA8EF6D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F23BD2-ECD1-41B9-8830-1C8AAA8EF6D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055E0D58-A5DF-4C8C-99E9-B076045A3073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055E0D58-A5DF-4C8C-99E9-B076045A3073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055E0D58-A5DF-4C8C-99E9-B076045A3073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055E0D58-A5DF-4C8C-99E9-B076045A3073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D06DD0D1-2FF8-4873-A014-D5B7B09E23A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06DD0D1-2FF8-4873-A014-D5B7B09E23A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06DD0D1-2FF8-4873-A014-D5B7B09E23A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06DD0D1-2FF8-4873-A014-D5B7B09E23A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6D6A6E-5C91-4656-8B5F-4A49B46986BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6D6A6E-5C91-4656-8B5F-4A49B46986BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6D6A6E-5C91-4656-8B5F-4A49B46986BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6D6A6E-5C91-4656-8B5F-4A49B46986BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E045CEFF-64AD-4CEB-B808-42405018A048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E045CEFF-64AD-4CEB-B808-42405018A048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E045CEFF-64AD-4CEB-B808-42405018A048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E045CEFF-64AD-4CEB-B808-42405018A048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FFB2674-0F5F-4C9E-9B89-A42DC464D2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FFB2674-0F5F-4C9E-9B89-A42DC464D2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FFB2674-0F5F-4C9E-9B89-A42DC464D2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FFB2674-0F5F-4C9E-9B89-A42DC464D2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5651DB0A-494B-43BA-AA44-7D812CBE9DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5651DB0A-494B-43BA-AA44-7D812CBE9DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5651DB0A-494B-43BA-AA44-7D812CBE9DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5651DB0A-494B-43BA-AA44-7D812CBE9DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

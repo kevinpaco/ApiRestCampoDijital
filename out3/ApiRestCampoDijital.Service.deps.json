@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ApiRestCampoDijital.Service/1.0.0": {
+        "dependencies": {
+          "ApiRestCampoDijital.Model": "1.0.0",
+          "ApiRestCampoDijital.ModelDTO": "1.0.0"
+        },
+        "runtime": {
+          "ApiRestCampoDijital.Service.dll": {}
+        }
+      },
+      "ApiRestCampoDijital.Model/1.0.0": {
+        "runtime": {
+          "ApiRestCampoDijital.Model.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ApiRestCampoDijital.ModelDTO/1.0.0": {
+        "runtime": {
+          "ApiRestCampoDijital.ModelDTO.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiRestCampoDijital.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiRestCampoDijital.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiRestCampoDijital.ModelDTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
