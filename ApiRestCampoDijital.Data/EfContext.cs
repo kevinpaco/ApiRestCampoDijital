@@ -46,7 +46,7 @@ namespace ApiRestCampoDijital.Data
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             => optionsBuilder.UseMySQL(connectionString: "server=127.0.0.1;port=3307; database=DBCampoDigital; user=root;password=root");
-        //UseMySQL(connectionString: "server=database-1-campodigital.cdeyma4u6nl6.us-east-2.rds.amazonaws.com;port=3306; database=campodigital; user=admin;password=1234598765CAMpo");
+        //UseMySQL(connectionString: "server=database-1-campodigital.cdeyma4u6nl6.us-east-2.rds.amazonaws.com;port=3306; database=campodigital; user=admin;password=contra");
 
         //optionsBuilder.UseMySQL(connectionString: "server=127.0.0.1;port=3307; database=DBCampoDigital; user=root;password=root");
 
